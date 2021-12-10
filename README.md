@@ -10,7 +10,7 @@ AtCoderの成績表からグラフを作成します。
 
 Google Colaboratoryで実行することができます。Googleのアカウントが必要です。
 
-<a href="https://colab.research.google.com/github/bo9chan/AtCoderCharts/blob/main/CompetitionHistoryChart.ipynb" target="_blank" rel="noopener noreferrer">Google Colaboratoryで開く（新規タブ）</a>
+[Google Colaboratoryで開く](https://colab.research.google.com/github/bo9chan/AtCoderCharts/blob/main/CompetitionHistoryChart.ipynb).
 
 ## License
 
